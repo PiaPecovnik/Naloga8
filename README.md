@@ -1,1 +1,2 @@
 # Naloga8
+https://www.figma.com/design/fXDNm9nmcHHYHIb8C8FFV9/Untitled?node-id=0-1&m=dev&t=gFMxBdgcRvfUyUoF-1
